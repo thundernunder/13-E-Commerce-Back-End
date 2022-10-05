@@ -24,6 +24,26 @@
 <p>No formal tests are provided for this project. However, ongoing testing was performed to ensure the database was running properly with MySQL Workbench. Test were also performed to ensure route functionality with Insomnia</p>
 
 <h2>Video Walkthrough</h2>
+<p>Launch Video Walkthrough:
+<br>
+https://user-images.githubusercontent.com/98553537/193983580-341d9c40-8714-45fa-adac-4371031b5cf2.mp4
+</p>
+
+<p>Product Routes Video Walkthrough:
+<br>
+[product-route-demo.webm](https://user-images.githubusercontent.com/98553537/193983704-11da736a-9fb3-4bc4-ae2f-46a12b733ba2.webm)
+</p>
+
+<p>Tag Routes Video Walkthrough:
+<br>
+[tag-route-demo.webm](https://user-images.githubusercontent.com/98553537/193983764-51e5f4ab-138c-41ac-b73b-405da4735edb.webm)
+</p>
+
+<p>Category Routes Video Walkthrough:
+<br>
+[category-route-demo.webm](https://user-images.githubusercontent.com/98553537/193983818-eecfe042-a6a4-411c-b398-dfc52026c6ce.webm)
+</p>
+
 
 
 <h2>Application Repository</h2>
