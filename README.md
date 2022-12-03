@@ -9,7 +9,7 @@
 * [Questions](#questions)
 
 <h2>Description</h2>
-<p>Challenge 13 involves creating a back-end e-commerce application. Completing this challenge allowed me to demonstrate my knowledge of HTML, CSS, and Javascript (including Node, MySql, Sequelize, and DotENV).</p> 
+<p>This e-commerice backend application allows a company to inventory their stock and categorize their invevtory according to their tag and product information, thus creating a simple and efficient way for a company to look up their stock. Technologies on display include Node, MySql, Sequelize, and DotENV.</p> 
 
 <h2>Installation</h2>
 <p>Make sure to have GitBash, Node.js, and VSCode installed for sucess. Further installations would be to install NPM MySql, Sequelize, and Dotenv.</p>
